@@ -1,2 +1,4 @@
 # nextgeoss-training-user-management
-Integration of the NextGEOSS user management service
+NextGEOSS second training, Tuesday 11th September 2018, Geneva
+
+Topic 6 - Integration of the NextGEOSS user management service
